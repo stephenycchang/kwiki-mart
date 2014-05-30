@@ -19,7 +19,7 @@ gem 'devise'
 gem 'cancancan'
 gem 'kaminari'
 gem 'masonry-rails'
-gem 'paperclip'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'jquery-turbolinks'
 
 group :development do
