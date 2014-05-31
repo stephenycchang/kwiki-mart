@@ -4,4 +4,4 @@
 
 May 29, 2014 - Installed Gems // Created Devise model // Setup Cancancan // Set up Products and User Controller
 
-May 30, 2014 - Styled Main Nav Bar
+May 30, 2014 - Styled Main Nav Bar // Updated all Views 
