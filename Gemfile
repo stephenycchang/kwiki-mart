@@ -21,6 +21,7 @@ gem 'kaminari'
 gem 'masonry-rails'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'jquery-turbolinks'
+gem 'aws-sdk'
 
 group :development do
   gem 'better_errors'
