@@ -7,3 +7,7 @@ May 29, 2014 - Installed Gems // Created Devise model // Setup Cancancan // Set 
 May 30, 2014 - Styled Main Nav Bar // Updated all Views 
 
 May 31, 2014 - Finished Validations // Paperclip // AWS // Some Styling // Updated .gitignore //
+
+June 1, 2014 - Seed file test
+
+To see how it looks today, please visit kwiki-mart.herokuapp.com!
