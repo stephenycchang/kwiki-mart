@@ -24,9 +24,9 @@
   <div class="box panel panel-default">
     <%= image_tag product.image.url(:medium) %>
     <div class="panel-body">
-      <%= product.description %>
-      <%= product.format_price %>
-      <%= product.name %>
+      <p><%= product.description %></p>
+      <p>$<%= product.format_price %></p>
+      <p><%= product.name %></p>
       <%= link_to 'Show', product %>
       <%= link_to 'Edit', edit_product_path(product) %>
       <%= link_to 'Delete', product, method: :delete, data: { confirm: 'Are you sure?' } %>
