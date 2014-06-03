@@ -15,4 +15,8 @@ class User < ActiveRecord::Base
   def last_name
     last_name = name.match(" ").post_match
   end
+
+  def admin?
+    admin
+  end
 end
