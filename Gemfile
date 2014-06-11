@@ -22,6 +22,7 @@ gem 'masonry-rails'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'jquery-turbolinks'
 gem 'aws-sdk'
+gem 'stripe'
 
 group :development do
   gem 'better_errors'
